@@ -34,8 +34,8 @@ To run the script from source, you'll need:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [Your Repository URL Here]
-    cd [Your Repository Name]
+    git clone https://github.com/ViperDroid/viper_scraper_api.git
+    cd viper_scraper_api
     ```
 2.  **Create and activate a virtual environment:**
     ```bash
