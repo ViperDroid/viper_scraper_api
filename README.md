@@ -4,12 +4,7 @@ A graphical user interface (GUI) application built with Python and CustomTkinter
 
 It can also be easily packaged into a standalone executable for distribution.
 
-## 🖼️ Preview
 
-*(Ideally, add a screenshot or GIF of the application in action here!)*
-
-![Screenshot Placeholder](placeholder.png)
-*(Replace `placeholder.png` with a link to your actual screenshot if you upload one to the repo)*
 
 ## 🚀 Features
 
